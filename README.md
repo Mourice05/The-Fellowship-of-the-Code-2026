@@ -64,32 +64,25 @@ Chapter V - The Tale Continues
 Go to Chapter V →
 
 
-
 Key Features of The Fellowship Companion:
 
-Inventory Management:  
+- Inventory Management:  
+  Every member tracks their pack, the system shows the group total, no verbal check ins needed.
 
-Every member tracks their pack, the system shows the group total, no verbal check ins needed.
+- Meal Planning:  
+  Sam selects a meal, the system tells him what's missing across all nine backpacks.
 
-Meal Planning:  
+- Smart Shopping:  
+  Know what to buy, get notified when near a market and get warned before buying duplicates.
 
-Sam selects a meal, the system tells him what's missing across all nine backpacks.
+- Load Distribution:  
+  The system suggests who carries or brings what, based on each member's capacity.
 
-Smart Shopping:  
+- Map:  
+  Shared map with markets, allies, and user reported dangers.
 
-Know what to buy, get notified when near a market and get warned before buying duplicates.
-
-Load Distribution:  
-
-The system suggests who carries or brings what, based on each member's capacity.
-
-Map:  
-
-Shared map with markets, allies, and user reported dangers.
-
-Task Tracker:  
-
-Create, assign, complete tasks. See what's uncompleted, what's done, what failed.
+- Task Tracker:  
+  Create, assign, complete tasks. See what's uncompleted, what's done, what failed.
 
 
 Changelog:  
