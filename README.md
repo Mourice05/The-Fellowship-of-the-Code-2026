@@ -1,27 +1,31 @@
 # The-Fellowship-of-the-Five
-The Fellowship Companion
+Lord of the Things - LoTs - The Fellowship of the Code – A Developer's Tale
 
-The Fellowship of the Code – A Developer's Tale
-
-LOTR Quote relevant to the assignment or artifact "Shortcuts make long delays" - Pippin
+"You shall not Starve!" - Gandalf the disturber of Peace
 
 Table of Contents
 
 The Fellowship Companion
-Purpose of The Fellowship Companion (TFC)
+Purpose of The Fellowship Companion (LoTs)
 Rules of our Journey
 Chapters
 Key Features of The Fellowship Companion
 Changelog
 
-Purpose of The Fellowship Companion (TFC)
+Purpose of The Fellowship Companion (LoTs)
 
 We are 5 hobbits on our great journey from the Shire to Mordor. Along the way, we need a system to support our planning, decisions and survival.
-The Fellowship of the Five is a evolving digital tool we build together. It is not perfect, it is not finished - it develops as we travel.
+Lord of the Things is a evolving digital tool we build together. It is not perfect, it is not finished, it develops as we travel.
 
-Who we are: The Fellowship of the Five - a group of 5 hobbits (students) working together.
-What we build: An App that tracks our Inventory, gives us critial location information and lets us note down our tasks.
-Why we build it: To improve current and future adventuring situation, help clear misunderstandings and improve survivability. 
+Who we are: 
+The Fellowship of the Five - a group of 5 hobbits (students) working together.
+
+What we build: 
+An App that tracks our Inventory, calculates shopping lists, warns of us nearby threats, shows us markets on a map and lets us note down our tasks.
+
+Why we build it: 
+To stop buying duplicate bread, stop walking into orc camps and to make sure Sam always knows what's left to cook with. Its to improve current and future adventuring situations and keeping the Fellowship coordinated without having to shout across the wilderness.
+
 Rules of our Journey
 All artifacts live in this GitHub repo.
 Gandalf (the AI) is our companion: we may ask him for help, but we always reflect on our decisions in The Red Book.
@@ -55,23 +59,29 @@ Chapter V - The Tale Continues
 
 Go to Chapter V →
 
+
 Key Features of The Fellowship Companion
-Adapt to your project...
 
+Inventory Management: 
+Every member tracks their pack, the system shows the group total, no verbal check ins needed.
 
-Journey Planning: map tasks, flows, and deadlines
-Resource Management: track fictional “hobbit resources” (food, supplies, morale)
-Decision Support: flows and logic for key choices on the journey
-Communication: share work, reflections, and AI learnings
-Versioned & Evolving: artifacts build on each other, tracked in The Red Book
+Meal Planning: 
+Sam selects a meal, the system tells him what's missing across all nine backpacks.
+
+Smart Shopping: 
+Know what to buy, get notified when near a market and get warned before buying duplicates.
+
+Load Distribution: 
+The system suggests who carries or brings what, based on each member's capacity.
+
+Map: 
+Shared map with markets, allies, and user reported dangers.
+
+Task Tracker: 
+Create, assign, complete tasks. See what's uncompleted, what's done, what failed.
+
 
 Changelog
 This is our general changelog (e.g., new chapter contents added, rules changed, or major system revisions).
 
 Each chapter has its own detailed changelog for chapter-specific updates.
-
-Adapt to your project...
-
-X
-Y
-Z
