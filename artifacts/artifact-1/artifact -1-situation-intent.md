@@ -12,26 +12,19 @@ The Fellowship Companion helps them to manage food better, pack more efficiently
 
 System Capabilities 
 
-1. Inventory Tracking 
-Each member of the fellowship logs their own items. The system then synchronizes everything into a shared group inventory, which will be visible to everyone. 
+Inventory Tracking: Each member of the fellowship logs their own items. The system then synchronizes everything into a shared group inventory, which will be visible to everyone. 
 
-2. Recipe-Based deficit calculation 
-One member selects a meal or sets parameters (for example: “feed nine people for 3 days with one additional extra day”). The system compares requirements vs. the available pooled inventory and shows exactly what is missing and in what quantity. 
+Recipe-Based deficit calculation: One member selects a meal or sets parameters (for example: “feed nine people for 3 days with one additional extra day”). The system compares requirements vs. the available pooled inventory and shows exactly what is missing and in what quantity. 
 
-3. Predictive Shopping – example: Lists 
-Based on current deficits and upcoming meal plans, the system generates a shopping list. When a member is near a location that has the needed items, they get notified. The fellowship also gets a warning when someone is about to buy something the group already has enough of. 
+Predictive Shopping – example: Lists: Based on current deficits and upcoming meal plans, the system generates a shopping list. When a member is near a location that has the needed items, they get notified. The fellowship also gets a warning when someone is about to buy something the group already has enough of. 
 
-4. Intelligent Load Distribution 
-The system suggests how to divide new purchases among members based on individual carrying capacities (a Hobbit carries less than a Dwarf). This prevents unfair or inefficient weight distribution. 
+Intelligent Load Distribution: The system suggests how to divide new purchases among members based on individual carrying capacities (a Hobbit carries less than a Dwarf). This prevents unfair or inefficient weight distribution. 
 
-5. Shared threat & location map 
-A group map showing markets, allies and the fellowship’s positions and user-reported dangers. Members approaching a reported threat gets warned, old reports are flagged as less reliable over time. 
+Shared threat & location map: A group map showing markets, allies and the fellowship’s positions and user-reported dangers. Members approaching a reported threat gets warned, old reports are flagged as less reliable over time. 
 
-6. Critical alert system 
-Urgent notifications (for example: “no healing herbs left” / “orc camp on planned route”) are visually and functionally distinct from routine updates, so critical information does not get buried. 
+Critical alert system: Urgent notifications (for example: “no healing herbs left” / “orc camp on planned route”) are visually and functionally distinct from routine updates, so critical information does not get buried. 
 
-7. Task Tracker 
-Members can create, assign and complete tasks. The group sees what is open, what is done and whether something failed – with space to note effort or issues. 
+Task Tracker: Members can create, assign and complete tasks. The group sees what is open, what is done and whether something failed – with space to note effort or issues. 
 
 Assumptions & Constraints 
 Data Quality is dependent on the User: The App only knows of data that the members of the Fellowship input. If nobody reports a threat or updates their inventory, the data will be incomplete or wrong. The System is entirely dependent on active and honest participation.  
