@@ -1,8 +1,9 @@
 # The-Fellowship-of-the-Five
 The Fellowship Companion
+
 The Fellowship of the Code – A Developer's Tale
 
-LOTR Quote relevant to the assignment or artifact "..." - Character
+LOTR Quote relevant to the assignment or artifact "Shortcuts make long delays" - Pippin
 
 Table of Contents
 
@@ -12,8 +13,8 @@ Rules of our Journey
 Chapters
 Key Features of The Fellowship Companion
 Changelog
+
 Purpose of The Fellowship Companion (TFC)
-Adapt to your project...
 
 We are 5 hobbits on our great journey from the Shire to Mordor. Along the way, we need a system to support our planning, decisions and survival.
 The Fellowship of the Five is a evolving digital tool we build together. It is not perfect, it is not finished - it develops as we travel.
