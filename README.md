@@ -12,7 +12,7 @@ Table of Contents:
 - Key Features of The Fellowship Companion
 - Changelog
 
-Purpose of The Fellowship Companion (LoTs)
+Purpose of The Fellowship Companion (LoTs):
 
 We are 5 hobbits on our great journey from the Shire to Mordor. Along the way, we need a system to support our planning, decisions and survival.
 Lord of the Things is a evolving digital tool we build together. It is not perfect, it is not finished, it develops as we travel.
@@ -36,57 +36,64 @@ Rules of our Journey:
 - Peer sharing is optional but highly recommended: it keeps the Fellowship alive.
 - The Red Book of Westmark (README.md + chapters/) is our reflection log and living changelog.
 
-Chapters
+Chapters:
 
-Chapter I - Planning
+Chapter I - Planning  
 “I will take the Ring, though I do not know the way.” - Frodo
 
 Go to Chapter I → [Situation Intent](https://github.com/Mourice05/The-Fellowship-of-the-Code-2026/blob/main/artifacts/artifact-1/artifact%20-1-situation-intent.md)
 
-Chapter II - Paths & Choices
+Chapter II - Paths & Choices  
 “All we have to decide is what to do with the time that is given us.” - Gandalf
 
 Go to Chapter II →
 
-Chapter III - Making It Visible
+Chapter III - Making It Visible  
 “I like less than half of you half as well as you deserve.” - Bilbo
 
 Go to Chapter III →
 
-Chapter IV - When Things React
+Chapter IV - When Things React  
 “Even the wise cannot see all ends.” - Gandalf
 
 Go to Chapter IV →
 
-Chapter V - The Tale Continues
+Chapter V - The Tale Continues  
 “The tale grew in the telling.” - Bilbo
 
 Go to Chapter V →
 
 
 
-Key Features of The Fellowship Companion
+Key Features of The Fellowship Companion:
 
-Inventory Management: 
+Inventory Management:  
+
 Every member tracks their pack, the system shows the group total, no verbal check ins needed.
 
-Meal Planning: 
+Meal Planning:  
+
 Sam selects a meal, the system tells him what's missing across all nine backpacks.
 
-Smart Shopping: 
+Smart Shopping:  
+
 Know what to buy, get notified when near a market and get warned before buying duplicates.
 
-Load Distribution: 
+Load Distribution:  
+
 The system suggests who carries or brings what, based on each member's capacity.
 
-Map: 
+Map:  
+
 Shared map with markets, allies, and user reported dangers.
 
-Task Tracker: 
+Task Tracker:  
+
 Create, assign, complete tasks. See what's uncompleted, what's done, what failed.
 
 
-Changelog
+Changelog:  
+
 This is our general changelog (e.g., new chapter contents added, rules changed, or major system revisions).
 
 Each chapter has its own detailed changelog for chapter-specific updates.
