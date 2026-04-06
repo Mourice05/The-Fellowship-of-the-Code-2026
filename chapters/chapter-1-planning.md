@@ -1,8 +1,18 @@
+# The Red Book of Westmarch - Chapter X: Title
 
-Summery - was in Artifact gemacht
+## Summary
 
-Link to artifact
+- Brief description of the artifact and its purpose.
 
-AI Usage
+## Artifact
 
-Lessons learned
+- Link to the artifact
+- Tasks
+
+## AI Assistance
+
+- Explanations, modifications, limitations
+
+## Lessons Learned
+
+- Insights, challenges, reflections
