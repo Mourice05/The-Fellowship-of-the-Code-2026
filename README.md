@@ -41,7 +41,7 @@ Chapters:
 Chapter I - Setting Out  
 “I will take the Ring, though I do not know the way.” - Frodo
 
-Go to Chapter I → [Situation Intent](https://github.com/Mourice05/The-Fellowship-of-the-Code-2026/blob/main/artifacts/artifact-1/artifact%20-1-situation-intent.md)
+Go to Chapter I → [Situation Intent](https://github.com/The-Fellowship-of-the-Five/The-Fellowship-of-the-Code-2026/blob/main/artifacts/artifact-1/artifact-1-situation-intent.md)
 
 Chapter II - Paths & Choices  
 “All we have to decide is what to do with the time that is given us.” - Gandalf
