@@ -6,7 +6,7 @@
 
 ## Artifact
 
-- Link to the artifact
+- [Link to the artifact](https://github.com/The-Fellowship-of-the-Five/The-Fellowship-of-the-Code-2026/blob/main/artifacts/artifact-1/artifact-1-situation-intent.md)
 - Tasks
 
 ## AI Assistance
