@@ -85,8 +85,9 @@ Key Features of The Fellowship Companion:
   Create, assign, complete tasks. See what's uncompleted, what's done, what failed.
 
 
-Changelog:  
+# Changelog:  
 
-This is our general changelog (e.g., new chapter contents added, rules changed, or major system revisions).
-
-Each chapter has its own detailed changelog for chapter-specific updates.
+# [1.0.0] - 08.04.2026
+### Added
+- Full Setup of Github page, including folders. 
+> Earlier Changes were not tracked, as work was not fully done in GitHub.  
