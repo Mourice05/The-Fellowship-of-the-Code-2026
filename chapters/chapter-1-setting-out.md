@@ -8,7 +8,7 @@ After agreeing on the main idea, we structured our work according to the section
 ## Artifact
 
 - [Link to the artifact](https://github.com/The-Fellowship-of-the-Five/The-Fellowship-of-the-Code-2026/blob/main/artifacts/artifact-1/artifact-1-situation-intent.md)
-- In this artifact we described the situation the Fellowship is facing while traveling with limited supplies and without a shared overview of what each member is carrying. Based on this we defined the intent and value of system and identified key capabilities such as shared inventory tracking, meal planning and threat reporting. The artifact serves as the conceptual starting point for the further design and development of the application. 
+- In this artifact we described the situation the Fellowship is facing while traveling with limited supplies and without a shared overview of what each member is carrying. Based on this we defined the intent and value of the  system and identified key capabilities such as shared inventory tracking, meal planning and threat reporting. The artifact serves as the conceptual starting point for the further design and development of the application. 
 
 ## AI Assistance
 
@@ -23,4 +23,4 @@ After agreeing on the main idea, we structured our work according to the section
 - Structuring the concept into Situation, Intent, Value, Capabilities and Constraints helped us organize our ideas more clearly and define our project more accurately
 - Group discussions helped us improve the concept and see potential problems from different perspectives
 - We gained more experience using GitHub, especially organizing files and keeping the repository structured
-- We learned how AI can support brainstorming and structuring ideas but only on a lower level. It helped us to combine our brainstorm but that was it
+- We learned how AI can support brainstorming and structuring ideas but only on a lower level. It helped us to combine our brainstorm but that was all it could and should muster
