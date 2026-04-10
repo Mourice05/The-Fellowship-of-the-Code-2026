@@ -1,42 +1,49 @@
 # The-Fellowship-of-the-Five
-Lord of the Things - LoTs - The Fellowship of the Code – A Developer's Tale
 
-"You shall not Starve!" - Gandalf the disturber of the Peace
+*`Lord of the Things - LoTs - The Fellowship of the Code – A Developer's Tale`*
 
-## Table of Contents:
+*`"You shall not Starve!" - Gandalf the disturber of the Peace*`
+
+**Table of Contents:**
 
 - The Fellowship Companion
 - Purpose of The Fellowship Companion (LoTs)
 - Rules of our Journey
 - Chapters
 - Key Features of The Fellowship Companion
-- Changelog
+- [Changelog](#changelog)
+
+---
 
 ## Purpose of The Fellowship Companion (LoTs):
 
 We are 5 hobbits on our great journey from the Shire to Mordor. Along the way, we need a system to support our planning, decisions and survival.
 Lord of the Things is a evolving digital tool we build together. It is not perfect, it is not finished, it develops as we travel.
 
-Who we are:  
+**Who we are:**  
 
 The Fellowship of the Five - a group of 5 hobbits (students) working together.
 
-What we build:  
+**What we build:**  
 
 An App that tracks our Inventory, calculates shopping lists, warns of us nearby threats, shows us markets on a map and lets us note down our tasks.
 
-Why we build it:  
+**Why we build it:**  
 
 To stop buying duplicate resources, stop walking into orc camps and to make sure Sam always knows what's left to cook with. Its to improve current and future adventuring situations and keeping the Fellowship coordinated without having to shout across the wilderness.
 
-Rules of our Journey:
+---
+
+## Rules of our Journey:
 
 - All artifacts live in this GitHub repo.
-- Gandalf (the AI) is our companion: we may ask him for help, but we always reflect on our decisions in The Red Book.
+- Gandalf (the AI) is our companion: we may ask him for help, but we always reflect on our    decisions in The Red Book.
 - Peer sharing is optional but highly recommended: it keeps the Fellowship alive.
 - The Red Book of Westmark (README.md + chapters/) is our reflection log and living changelog.
 
-Chapters:
+---
+
+## Chapters:
 
 Chapter I - Setting Out  
 “I will take the Ring, though I do not know the way.” - Frodo
