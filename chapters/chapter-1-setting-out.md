@@ -11,19 +11,20 @@
 
 ## Artifact
 
-[Link to the artifact](https://github.com/The-Fellowship-of-the-Five/The-Fellowship-of-the-Code-2026/blob/main/artifacts/artifact-1/artifact-1-situation-intent.md)
+ - [Link to the artifact](https://github.com/The-Fellowship-of-the-Five/The-Fellowship-of-the-Code-2026/blob/main/artifacts/artifact-1/artifact-1-situation-intent.md)
 
-In this artifact we described the situation the Fellowship is facing while traveling with limited supplies and without a shared overview of what each member is carrying.  
-Based on this we defined the intent and value of the  system and identified key capabilities such as *shared inventory tracking, meal planning and threat reporting.*  
-The artifact serves as the conceptual starting point for the further design and development of the application. 
+ - In this artifact we described the situation the Fellowship is facing while traveling with limited supplies and without a shared overview of what each member is carrying.  
+ - Based on this we defined the intent and value of the  system and identified key capabilities such as *shared inventory tracking, meal planning and threat reporting.*  
+ - The artifact serves as the conceptual starting point for the further design and development of the application. 
 
 ## AI Assistance
 
-AI assistance was used to unite our ideas without the hassle of repeating ourselves throughout the drafting.  
-With the combined input, we then used this to apply and modify our shared thoughts within the group and modified the file where our individual reports were combined.  
-AI assistance was also used to help us with minor phrasings, as well as translating some words into
+ - AI assistance was used to unite our ideas without the hassle of repeating ourselves throughout the drafting.  
+ - With the combined input, we then used this to apply and modify our shared thoughts within the group and modified the file where our individual reports were combined.  
+ - AI assistance was also used to help us with minor phrasings, as well as translating some words into
 English.  
-Lastly, we used the help of Gandalf to help us with the starting basics on how to use GitHub.  Altogether, AI was a great support to create some structure amongst all our individual input. 
+ - Lastly, we used the help of Gandalf to help us with the starting basics on how to use GitHub.
+ - Altogether, AI was a great support to create some structure amongst all our individual input. 
 
 ## Lessons Learned
 
