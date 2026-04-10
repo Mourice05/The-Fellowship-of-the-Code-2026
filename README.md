@@ -101,7 +101,7 @@ Go to Chapter V →
 
 ### [1.0.1] - 10.04.2026
 ### Changed
- - Github *Readme* and *Chapter 1* was adjusted and improved upon, after conversing with the Professor.
+ - Github *Readme* and *Chapter 1* were adjusted and improved upon, after conversing with the Professor.
 
 ### [1.0.0] - 08.04.2026
 ### Added
