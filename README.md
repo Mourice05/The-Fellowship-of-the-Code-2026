@@ -6,11 +6,11 @@
 
 **Table of Contents:**
 
-- The Fellowship Companion
-- Purpose of The Fellowship Companion (LoTs)
-- Rules of our Journey
-- Chapters
-- Key Features of The Fellowship Companion
+- [The Fellowship of the Five](#The-Fellowship-of-the-Five)
+- [Purpose of The Fellowship Companion (LoTs)](#Purpose-of-the-fellowship-companion-(LoTs))
+- [Rules of our Journey](#Rules-of-our-Journey)
+- [Chapters](#Chapters)
+- [Key Features of The Fellowship Companion](#Key-Features-of-The-Fellowship-Companion)
 - [Changelog](#changelog)
 
 ---
