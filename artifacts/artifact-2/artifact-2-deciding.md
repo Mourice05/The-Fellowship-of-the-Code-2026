@@ -23,7 +23,7 @@ Branching paths show how the user handles missing ingredients, syncing with a sh
 
 ```mermaid
 flowchart TB
-    Start(["Quartermaster opens 'Planning a Meal'"])
+    Start(["Quartermaster opens 'Meal Planning'"])
     Start --> Q{Single meal or multi-day plan?}
     Q -->|Single meal| C
     Q -->|Multi-day plan| B
