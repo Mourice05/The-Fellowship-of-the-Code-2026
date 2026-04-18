@@ -33,7 +33,7 @@ flowchart TB
     B[Enter meal parameters] --> D[Number of People]
     D --> E[Number of Days]
     E --> F[Buffer day]
-    F --> G[[Show recipes that fit]]
+    F --> G[[Show feasable and not feasable recipes]]
     R[[Show all recipes]]
     G -->|Browse| H
     R -->|Browse| H
