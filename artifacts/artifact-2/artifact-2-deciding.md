@@ -38,8 +38,7 @@ flowchart TB
     G1 -->|Browse all recipes| G2
     G2 -->|Browse| H
     H --> T[Overview]
-    T --> H2[[Display required ingredients]]
-    H2 --> Z[(Read collective inventory)]
+    T --> Z[(Read collective inventory)]
     Z --> I{Ingredients missing?}
     I -->|Yes| L[[Deficit table: item + quantity]]
     I -->|No| M[[Recipe is feasible, comparison table with leftovers]]
