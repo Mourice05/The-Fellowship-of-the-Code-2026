@@ -28,13 +28,13 @@ flowchart TB
     Q -->|Single meal| C
     Q -->|Multi-day plan| B
     C{Browse all or pick from presets?}
-    C -->|Browse all| R
+    C -->|Show all recipes| R
     C -->|Pick from preset| X[[History and saved meals]] --> |Browse| H
     B[Enter meal parameters] --> D[Number of People]
     D --> E[Number of Days]
     E --> F[Buffer day]
     F --> G[[Show feasable and not feasable recipes]]
-    R[[Show all recipes]]
+    R[[Browse all]]
     G -->|Browse| H
     R -->|Browse| H
     H[Select recipe] --> T[Overview]
