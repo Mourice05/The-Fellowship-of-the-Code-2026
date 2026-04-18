@@ -37,8 +37,7 @@ flowchart TB
     R[[Show all recipes]]
     G -->|Browse| H
     R -->|Browse| H
-    H[Select recipe] --> |Compare requirements and inventory| T
-    T[Overview]
+    H[Select recipe] --> T[Overview]
     T --> H2[[Display required ingredients]]
     H2 --> Z[(Read collective inventory)]
     Z --> I{Ingredients missing?}
