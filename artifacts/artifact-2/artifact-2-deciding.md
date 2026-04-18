@@ -29,7 +29,7 @@ flowchart TB
     Q -->|Multi-day plan| B
     C{Browse all or pick from presets?}
     C -->|Browse all| R
-    C -->|Pick from preset| X[[Often prepared and favorite meals]] --> |Browse| H
+    C -->|Pick from preset| X[[History and saved meals]] --> |Browse| H
     B[Enter meal parameters] --> D[Number of People]
     D --> E[Number of Days]
     E --> F[Buffer day]
