@@ -81,7 +81,7 @@ flowchart TB
 
 ## Wireframe Interface
 
-![Wireframe for Recipe-Based Deficit Calculation](./src/wireframe.png)
+[Wireframe for Recipe-Based Deficit Calculation](./src/wireframe.png)
 
 ---
 
