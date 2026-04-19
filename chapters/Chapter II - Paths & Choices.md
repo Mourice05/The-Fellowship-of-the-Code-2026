@@ -28,9 +28,9 @@ Link: - [The Fellowship of the Five - Artifact 2: Deciding](https://github.com/T
 
 ## AI Assistance
 
- - We learned that limiting features is more difficult. Adding too many, even though they work hand in hand, made the creation of the Flowchart quite difficult. By deliberately excluding adding to a shopping list and other automation features, the core decision (can we cook this meal?) became clearer and easier to design.
- - Designing the interface taught us the importance of providing context. Showing a user exactly what is missing and why a meal cannot be cooked is more useful than a simple "error" or "not enough ingredients" prompt.
- - The group doesn't just want to view data; they want to plan. Integrating "next actions" directly into the deficit comparison screen shifted the design from a static information dashboard into an active decision-making tool. 
+ - Learning the basics of Mermaid and Wireframe. 
+ - Improving Mermaid Flowchart logic and letting the AI recommend different design choices fitting the shapes.
+ - Improve the overall comprehensibility and professional tone of the capability description.
 
 ## Lessons Learned
 
