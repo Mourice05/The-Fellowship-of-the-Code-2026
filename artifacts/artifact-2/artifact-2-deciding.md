@@ -92,7 +92,7 @@ This matches the goal of our Assignment 1 capability, because the feature is mea
 
 The wireframe follows a clear step-by-step flow. 
 
-First, the user chosses the planning mode and enters basic meal parameters. Then, the user selects one recipe and reviews the plan before checking it with the shared inventory. 
+First, the user chooses the planning mode and enters basic meal parameters. Then the user selects one recipe and reviews the plan before checking it with the shared inventory. 
 The most important part of the design is the comparison between required, available and missing ingredients, because this makes the result easy to understand. 
 Instead of only showing a yes or no answer, the design also shows why the meal is feasible or not feasible. We also included next actions, such as adjusting servings or days, choosing a different recipe or adding missing items, so that the interface supports decision-making and does not just display information. 
 
