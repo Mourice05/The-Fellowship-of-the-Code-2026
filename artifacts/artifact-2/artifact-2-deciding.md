@@ -81,13 +81,7 @@ flowchart TB
 
 ## Wireframe Interface
 
-Create one wireframe that represents this capability.
-
-Low-fidelity is sufficient (boxes, labels, structure)
-
-Drawn, exported from a tool, created with simple shapes
-
-This wireframe answers: "What does the user see and interact with?"
+![Wireframe for Recipe-Based Deficit Calculation](./src/wireframe.png)
 
 ---
 
