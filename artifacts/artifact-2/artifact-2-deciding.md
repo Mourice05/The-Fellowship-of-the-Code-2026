@@ -92,8 +92,14 @@ This wireframe answers: "What does the user see and interact with?"
 ---
 
 ## Design Rationale
-Explain your design decisions:
-How does this design support the intent and value defined in your Assignment 1?
-What did you deliberately leave out?
-What assumptions or constraints influenced your design?
-Clarity over completeness. Structure over cleverness.
+Our design focuses on one main decision: can the Fellowship prepare a selected meal with the current supplies?
+This matches the goal of our Assignment 1 capability, because the feature is meant to show the current situation, compare needed and available ingredients, and make missing items visible before the group decides what to do. 
+
+The wireframe follows a clear step-by-step flow. 
+
+First, the user chosses the planning mode and enters basic meal parameters. Then, the user selects one recipe and reviews the plan before checking it with the shared inventory. 
+The most important part of the design is the comparison between required, available and missing ingredients, because this makes the result easy to understand. 
+Instead of only showing a yes or no answer, the design also shows why the meal is feasible or not feasible. We also included next actions, such as adjusting servings or days, choosing a different recipe or adding missing items, so that the interface supports decision-making and does not just display information. 
+
+We deliberately left out features like per-member inventory, shopping automation, route planning, notifications and advanced filters, because they are not necessary for this assignmentand would make the design more complex. The design is based on the assumptions that the inventory is shared, quantities are standardized and only one recipe at a time is checked. 
+Overall, the wireframe follows the idea of clarity over completeness by focusing on one understandable decision instead of trying to show a full application.
