@@ -19,7 +19,9 @@ This capability helps them plan their next resupply more efficiently, avoids unn
 
 The flowchart below describes how the *Recipe-Based Deficit Calculation* works from the Quartermaster/User's perspective.  
 It covers the scope of the meal, the recipe and the required ingredients compared to the Fellowship's collective inventory.  
-Branching paths show how the user handles missing ingredients, syncing with a shopping list, adjusting parameters or completely switching recipes before saving the plan and optionally sharing it with the group. 
+Branching paths show how the user handles missing ingredients, syncing with a shopping list, adjusting parameters or completely switching recipes before saving the plan and optionally sharing it with the group.  
+  
+[Mermaid Flowchart](https://github.com/The-Fellowship-of-the-Five/The-Fellowship-of-the-Code-2026/blob/main/artifacts/artifact-2/src/decisions.mermaid.md)
 
 ```mermaid
 flowchart TB
