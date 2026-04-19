@@ -55,7 +55,7 @@ Go to Chapter I → [Situation Intent](https://github.com/The-Fellowship-of-the-
 2. **Chapter II - Paths & Choices**  
    *“All we have to decide is what to do with the time that is given us.” - Gandalf*
 
-Go to Chapter II →
+Go to Chapter II → [Paths & Choices](https://github.com/The-Fellowship-of-the-Five/The-Fellowship-of-the-Code-2026/blob/main/chapters/Chapter%20II%20-%20Paths%20%26%20Choices.md)
 
 3. **Chapter III - Making It Visible**  
    *“I like less than half of you half as well as you deserve.” - Bilbo*
