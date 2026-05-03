@@ -13,7 +13,6 @@ The system then shows what is missing and in what quantity, so the group can dec
 
 In Assignment 2 we designed how the capability works by utilizing the Mermaid flowchart and what the uid looks like by using wireframe. In this assignment we translate the wireframe into a HTML and CSS page.
 
----
 
 ### Why this capability matters for the Fellowship at this stage of the journey
 
@@ -31,6 +30,22 @@ This capability turns a chaotic, manual check into a quiet, reliable decision. T
 
 ---
 
+## Static Interface Implementation
+
+### HTML Page
+
+
+
+
+
+### CSS Page
+
+
+
+
+---
+
+## Design Rationale
 
 
 
