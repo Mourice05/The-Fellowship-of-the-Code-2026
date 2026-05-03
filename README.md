@@ -60,7 +60,7 @@ Go to Chapter II → [Paths & Choices](https://github.com/The-Fellowship-of-the-
 3. **Chapter III - Making It Visible**  
    *“I like less than half of you half as well as you deserve.” - Bilbo*
 
-Go to Chapter III →
+Go to Chapter III → [Making It Visible](https://github.com/The-Fellowship-of-the-Five/The-Fellowship-of-the-Code-2026/blob/main/chapters/Chapter%20III%20-%20Making%20It%20Visible.md)
 
 4. **Chapter IV - When Things React**  
    *“Even the wise cannot see all ends.” - Gandalf*
