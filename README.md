@@ -99,6 +99,10 @@ Go to Chapter V →
 
 ## Changelog:  
 
+### [1.0.3] - 03.04.2026
+### Added 
+ - Artifact 3 creation and formating
+
 ### [1.0.2] - 19.04.2026
 ### Added
  - Artifact 2 added and multiple times improved. Mermaid Flowchart, Wireframe Interface created and displayed in Github.
