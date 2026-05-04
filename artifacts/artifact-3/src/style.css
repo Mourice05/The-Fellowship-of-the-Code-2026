@@ -225,7 +225,7 @@ a, button, .btn-small, .tab-btn {
     margin-bottom: 20px; /* Hält Abstand zur Pagination am unteren Rand */
 }
 
-/* --- FORMULARE --- */
+/* Formulare */
 fieldset {
     border: none; 
     padding: 0;   
@@ -275,7 +275,7 @@ legend {
     text-align: center;
 }
 
-/* --- TABS --- */
+/* Tabs */
 .tab-nav {
     display: flex;
     gap: 7px;
@@ -295,7 +295,7 @@ legend {
     background-color: var(--bg-active);
 }
 
-/* --- REZEPTLISTE --- */
+/* Rezeptliste */
 .recipe-list-container {
     display: flex;
     flex-direction: column;
@@ -326,7 +326,7 @@ legend {
     margin-top: 0;
 }
 
-/* --- PAGINATION --- */
+/* Pagination */
 .pagination {
     margin-top: auto; 
     padding-bottom: 15px;
@@ -348,9 +348,7 @@ legend {
     background-color: #333; 
 }
 
-/* ==============================================================
-   UX-FIX: Desktop-Pfeile in Nummernfeldern ausblenden.
-   ============================================================== */
+/* kleiner UX-fix: Pfeile in den Nummernfeldern ausblenden */
 .input-field input[type="number"]::-webkit-outer-spin-button,
 .input-field input[type="number"]::-webkit-inner-spin-button {
     -webkit-appearance: none;
