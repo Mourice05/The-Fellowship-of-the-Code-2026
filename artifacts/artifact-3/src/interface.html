@@ -1,1 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Hintergundinfos fuer Browser -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Meal Planning Flow</title>
+    
+    <!-- Verknuepfung zu CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+    <!-- Interface fuer Handydarstellung -->
+    <main class="phone-shell">
+        <div class="notch"></div>
+
+        <!-- Screen 1 - Planning Mode -->
+        <section class="screen" id="screen1">
+            
+            <header class="status-bar">
+                <span>9:41</span>
+                <span>LTE 78%</span>
+            </header>
+
+            <header class="app-header">
+                <h1>Meal Planning</h1>
+            </header>
+
+            <div class="app-content">
+                <fieldset class="mode-selection">
+                    <legend class="label-title">Planning mode</legend>
+                    
+                    <nav class="button-row">
+                        <div class="mode-option">
+                            <a class="btn-outline" href="#screen3">Single meal</a>
+                            <span class="hint">Quick check for one recipe</span>
+                        </div>
+                        <div class="mode-option">
+                            <a class="btn-outline" href="#screen2">Multi-day plan</a>
+                            <span class="hint">Set people, days and buffer</span>
+                        </div>
+                    </nav>
+                </fieldset>
+
+                <p class="inventory-info">Current inventory basis: shared group inventory</p>
+            </div>
+            
+            <footer class="pagination">
+                <span class="dot active"></span>
+                <span class="dot"></span>
+                <span class="dot"></span>
+                <span class="dot"></span>
+            </footer>
+        </section>
+
+
+        <!-- Screen 2 - Multi-day plan 1 -->
+        <section class="screen" id="screen2">
+            <header class="status-bar">
+                <span>9:41</span>
+                <span>LTE 78%</span>
+            </header>
+
+            <header class="app-header">
+                <h1>Meal Planning</h1>
+            </header>
+
+            <div class="app-content">
+                
+                <section class="card">
+                    <header class="card-header">
+                        <div>
+                            <span class="label-title">Selected mode</span>
+                            <strong>Multi-day plan</strong>
+                        </div>
+                    </header>
+                </section>
+
+                <section class="card">
+                    <span class="label-title">Recipe source</span>
+                    <nav class="tab-nav">
+                        <span class="tab-btn">Browse all</span>
+                        <span class="tab-btn">Saved Recipes</span>
+                        <span class="tab-btn active">History</span>
+                    </nav>
+                </section>
+
+                <!-- Meal-Parameters Form mit 'min' Attributen, damit man nicht unter 1 (bzw. 0) kommt -->
+                <form class="card">
+                    <span class="label-title">Meal parameters</span>
+                    <div class="input-group-row">
+                        <div class="input-field">
+                            <label for="people">Number of people</label>
+                            <input type="number" id="people" value="9" min="1">
+                        </div>
+                        <div class="input-field">
+                            <label for="days">Days</label>
+                            <input type="number" id="days" value="3" min="1">
+                        </div>
+                        <div class="input-field">
+                            <label for="buffer">Buffer day</label>
+                            <input type="number" id="buffer" value="1" min="0">
+                        </div>
+                    </div>
+                    <a class="btn-primary" style="margin-top: 15px;" href="#screen4">Show recipes that fit</a>
+                </form>
+
+                <!-- Back-Button -->
+                <a class="btn-back mt-auto" href="#screen1">
+                    <span class="icon">&#10094;</span> Back to start
+                </a>
+            </div>
+            
+            <footer class="pagination">
+                <span class="dot"></span>
+                <span class="dot active"></span>
+                <span class="dot"></span>
+                <span class="dot"></span>
+            </footer>
+        </section>
+
+
+        <!-- Screen 3 - Single meal (mit History Select) -->
+        <section class="screen" id="screen3">
+            <header class="status-bar">
+                <span>9:41</span>
+                <span>LTE 78%</span>
+            </header>
+
+            <header class="app-header">
+                <h1>Meal Planning</h1>
+            </header>
+
+            <div class="app-content">
+                
+                <section class="card">
+                    <header class="card-header">
+                        <div>
+                            <span class="label-title">Selected mode</span>
+                            <strong>Single meal</strong>
+                        </div>
+                    </header>
+                </section>
+
+                <section class="card">
+                    <span class="label-title">Recipe source</span>
+                    <nav class="tab-nav">
+                        <span class="tab-btn">Browse all</span>
+                        <span class="tab-btn">Saved Recipes</span>
+                        <span class="tab-btn active">History</span>
+                    </nav>
+                </section>
+
+                <section class="recipe-list-container">
+                    <span class="label-title">History</span>
+                    
+                    <article class="recipe-item selected">
+                        <div class="recipe-info">
+                            <strong>Rabbit Stew</strong>
+                            <span class="hint">familiar meal · good for cold travel conditions</span>
+                        </div>
+                        <span class="btn-small active">Selected</span>
+                    </article>
+
+                    <article class="recipe-item">
+                        <div class="recipe-info">
+                            <strong>Vegetable Soup</strong>
+                            <span class="hint">12 servings · low meat use</span>
+                        </div>
+                        <span class="btn-small">Select</span>
+                    </article>
+
+                    <article class="recipe-item">
+                        <div class="recipe-info">
+                            <strong>Travel Bread</strong>
+                            <span class="hint">portable but limited warmth and variety</span>
+                        </div>
+                        <span class="btn-small">Select</span>
+                    </article>
+
+                </section>
+
+                <!-- Back-Button -->
+                <a class="btn-back mt-auto" href="#screen1">
+                    <span class="icon">&#10094;</span> Back to start
+                </a>
+            </div>
+            
+            <footer class="pagination">
+                <span class="dot"></span>
+                <span class="dot"></span>
+                <span class="dot active"></span>
+                <span class="dot"></span>
+            </footer>
+        </section>
+
+
+        <!-- Screen 4 - Select Recipe -->
+        <section class="screen" id="screen4">
+            <header class="status-bar">
+                <span>9:41</span>
+                <span>LTE 78%</span>
+            </header>
+
+            <header class="app-header">
+                <h1>Select Recipe</h1>
+            </header>
+
+            <div class="app-content">
+                <p class="filter-text">Filtered: People: 9 | Days: 3 | Buffer: 1 | all recipes</p>
+                
+                <section class="card">
+                    <span class="label-title" style="margin-bottom:8px;">Feasible Recipes</span>
+                    <article class="recipe-item">
+                        <div class="recipe-info">
+                            <strong>Vegetable Soup</strong>
+                            <span class="hint">12 servings · low meat use</span>
+                        </div>
+                        <span class="btn-small">Select</span>
+                    </article>
+                </section>
+
+                <section class="card">
+                    <span class="label-title" style="margin-bottom:8px;">Currently Not Feasible Recipes</span>
+                    <article class="recipe-item">
+                        <div class="recipe-info">
+                            <strong>Travel Bread</strong>
+                            <span class="hint">portable but limited warmth and variety</span>
+                        </div>
+                        <span class="btn-small">Select</span>
+                    </article>
+                    <article class="recipe-item selected">
+                        <div class="recipe-info">
+                            <strong>Rabbit Stew</strong>
+                            <span class="hint">familiar meal · good for cold travel conditions</span>
+                        </div>
+                        <span class="btn-small active">Selected</span>
+                    </article>
+                </section>
+
+                <!-- Back-Button -->
+                <a class="btn-back mt-auto" href="#screen2">
+                    <span class="icon">&#10094;</span> Back to parameters
+                </a>
+            </div>
+            
+            <footer class="pagination">
+                <span class="dot"></span>
+                <span class="dot"></span>
+                <span class="dot"></span>
+                <span class="dot active"></span>
+            </footer>
+        </section>
+
+    </main>
+</body>
+</html>
