@@ -32,6 +32,8 @@ This capability turns a chaotic, manual check into a quiet, reliable decision. T
 
 ## Static Interface Implementation
 
+[Artifact 3 - Interface](https://the-fellowship-of-the-five.github.io/The-Fellowship-of-the-Code-2026/artifacts/artifact-3/src/interface.html)
+
 ### HTML Page
 
 
@@ -46,7 +48,6 @@ This capability turns a chaotic, manual check into a quiet, reliable decision. T
 ---
 
 ## Design Rationale
-
 
 
 
