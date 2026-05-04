@@ -36,14 +36,11 @@ This capability turns a chaotic, manual check into a quiet, reliable decision. T
 
 ### HTML Page
 
-
-
-
+[Interface.html](https://github.com/The-Fellowship-of-the-Five/The-Fellowship-of-the-Code-2026/blob/main/artifacts/artifact-3/src/interface.html)
 
 ### CSS Page
 
-
-
+[style.css](https://github.com/The-Fellowship-of-the-Five/The-Fellowship-of-the-Code-2026/blob/main/artifacts/artifact-3/src/style.css)
 
 ---
 
