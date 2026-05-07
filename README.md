@@ -99,12 +99,16 @@ Go to Chapter V →
 
 ## Changelog:  
 
-### [1.0.4] - 04.04.2026
+### [1.0.5] - 07.05.2026
+### Added
+ - Chapter III of the Redbook filled
+
+### [1.0.4] - 04.05.2026
 ### Added 
  - HTML and CSS added and updated multiple times.
  - Artifact 3 format and text added and updated.
 
-### [1.0.3] - 03.04.2026
+### [1.0.3] - 03.05.2026
 ### Added 
  - Artifact 3 creation and formating
 
